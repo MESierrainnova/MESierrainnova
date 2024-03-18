@@ -1,4 +1,4 @@
-![imagen](https://github.com/MESierrainnova/MESierrainnova/assets/163678304/240772e3-1e78-4c04-9d87-0f4d53a2bda7)
+![Banners temas](https://github.com/MESierrainnova/MESierrainnova/assets/163678304/218f39e6-14da-4dcc-8250-e93714531380)
 - 👋 Hola, Soy Rodolfo Sierra
 - 👀 Estoy interesado en aprender Tecnologías Disruptivas y Entornos de Aprendizaje Virtual Disruptivo
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologías emergentes en la educación
